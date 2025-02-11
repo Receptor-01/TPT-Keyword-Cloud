@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# wordCloudSimplified.py
 # A simple script to generate a word cloud from the 'NAME' column of a CSV.
 
 import pandas as pd
@@ -48,8 +47,7 @@ def generate_word_cloud_text(df):
         # Add custom words that you want excluded from the word cloud
         custom_stopwords = {
             'worksheet', 'worksheets', 'lesson', 'lessons',
-            'activities', 'activity', 'math', 'reading',
-            'english', 'grade', 'grades'
+            'activities', 'activity', 'grade', 'grades'
         }
         stop_words.update(custom_stopwords)
 

@@ -49,8 +49,8 @@ This word cloud allows you to see the range of keywords used in your product tit
 
 5. Run the script: 
 
-  ```bash
-   python cloud-script.py
+```bash
+  python cloud-script.py
 
 
 5. Check for the generated file:
