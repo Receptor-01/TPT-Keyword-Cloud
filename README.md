@@ -34,7 +34,7 @@ This word cloud allows you to see the range of keywords used in your product tit
 
 # Running The Script
 
-3. Copy or place your CSV file (product-stats.csv) in the same directory as cloud-script.py.
+3. Copy or place your CSV file (**`product-stats.csv`**) in the same directory as cloud-script.py.
 
 4. Open your terminal (or command prompt) and navigate to the folder containing cloud-script.py.
 
@@ -45,14 +45,14 @@ This word cloud allows you to see the range of keywords used in your product tit
 
 
 5. Check for the generated file:
- - A new file named WORD-CLOUD.jpg should appear in the same directory.
+ - A new file named **`WORD-CLOUD.jpg`** should appear in the same directory.
  - Open it to verify it contains a word cloud image.
 
 
 Configuration
- - CSV Path: By default, the expected CSV file name is set to **product-stats.csv**. It's recommended to simply change the CSV file name of your product-stats download, but you can also edit this at the top of cloud-script.py if you want your CSV named differently.
+ - CSV Path: By default, the expected CSV file name is set to **`product-stats.csv`**. It's recommended to simply change the CSV file name of your product-stats download, but you can also edit this at the top of **`cloud-script.py`** if you want your CSV named differently.
 
- - Output Image Path: By default, output_image_path is WORD-CLOUD.jpg. You can also change this if you prefer a different filename or file path.
+ - Output Image Path: By default, output_image_path is **`WORD-CLOUD.jpg`**. You can also change this if you prefer a different filename or file path.
 
 Contributing
  - Feel free to open an issue or submit a pull request if you have suggestions to improve functionality or clarity.
