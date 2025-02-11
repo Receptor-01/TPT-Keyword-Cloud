@@ -6,7 +6,7 @@ This repository contains a simple Python script (**cloud-script.py**) that gener
 
 ## Overview
 
-**cloud-script.py** reads data from a Teachers Pay Teachers product statistics CSV that you will need to rename to **`product-stats.csv`**, then looks at all the keywords used in your product titles, and generates a word cloud image with the most commonly occuring keywords. (named **`WORD-CLOUD.jpg`** by default).  
+**`cloud-script.py`** reads data from a Teachers Pay Teachers product statistics CSV that you will need to rename to **`product-stats.csv`**, then looks at all the keywords used in your product titles, and generates a word cloud image with the most commonly occuring keywords. (named **`WORD-CLOUD.jpg`** by default).  
 
 This word cloud allows you to see the range of keywords used in your product titles, and get a visual gauge of the relative prevalance of each. 
 
