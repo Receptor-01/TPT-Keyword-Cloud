@@ -3,6 +3,8 @@
 This repository contains a simple Python script (**cloud-script.py**) that generates a word cloud image from the names of TPT products listed in a CSV file.
 
 ---
+![alt text](word-cloud-example.png)
+---
 
 ## Overview
 
@@ -32,7 +34,7 @@ This word cloud allows you to see the range of keywords used in your product tit
    pip install pandas matplotlib wordcloud nltk
 
 
-# Running The Script
+## Running The Script
 
 3. Copy or place your CSV file (**`product-stats.csv`**) in the same directory as cloud-script.py.
 
