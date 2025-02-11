@@ -28,17 +28,9 @@ This word cloud allows you to see the range of keywords used in your product tit
 
 2. **Pandas**  
    ```bash
-   pip install pandas
+   
+   pip install pandas matplotlib wordcloud nltk
 
-   ```bash
-
-   pip install matplotlib
-
-   pip install wordcloud
-
-   pip install nltk
-
-   python -m nltk.downloader stopwords
 
 
 # Running The Script
