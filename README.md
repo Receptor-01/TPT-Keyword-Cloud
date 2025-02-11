@@ -51,12 +51,12 @@ This word cloud allows you to see the range of keywords used in your product tit
  - Open it to verify it contains a word cloud image.
 
 
-Configuration
+## Configuration
  - CSV Path: By default, the expected CSV file name is set to **`product-stats.csv`**. It's recommended to simply change the CSV file name of your product-stats download, but you can also edit this at the top of **`cloud-script.py`** if you want your CSV named differently.
 
  - Output Image Path: By default, output_image_path is **`WORD-CLOUD.jpg`**. You can also change this if you prefer a different filename or file path.
 
-Contributing
+## Contributing
  - Feel free to open an issue or submit a pull request if you have suggestions to improve functionality or clarity.
 
 
